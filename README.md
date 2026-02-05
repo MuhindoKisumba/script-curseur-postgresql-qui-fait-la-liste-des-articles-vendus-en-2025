@@ -66,6 +66,5 @@ Traitement ETL
 Auteur
 --------
 
-MUHINDO Kisumba
-Data Analyst & Database Engineer
-PostgreSQL | SQL avancé | Power BI | Python | FastAPI
+MUHINDO KISUMBA Abdiel
+Expert Cybersécurité & PostgreSQL | CEH • CISSP • CompTIA Security+ | Sécurité Réseaux, Systèmes & Bases de Données | Protection des Infrastructures Critiques
